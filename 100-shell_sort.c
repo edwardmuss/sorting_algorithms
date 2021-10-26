@@ -9,6 +9,10 @@ void geusa_ints(int *a, int *b)
 	*b = tmp;
 }
 
+/**
+ * shell sort
+ * Description:  sorts an array of integers in ascending order using the Shell sort
+ */
 void shell_sort(int *array, size_t size)
 {
 	size_t dif, i, j;
