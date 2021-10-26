@@ -11,7 +11,7 @@ void geusa_ints(int *a, int *b)
 
 /**
  * shell sort
- * Description:  sorts an array of integers in ascending order using the Shell sort
+ * Description: sorts an array of integers
  */
 void shell_sort(int *array, size_t size)
 {
